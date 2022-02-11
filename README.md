@@ -1,0 +1,2 @@
+# osg
+OSG Reading Group
