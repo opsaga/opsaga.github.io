@@ -1,0 +1,10 @@
+title: OSG Reading Group
+whoami: OSG
+email: 
+description: Reading group on Optimization, Sampling, and Games
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://opsaga.github.io" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown

@@ -1,0 +1,21 @@
+body {
+    max-width: 680px;
+    background-color:white;
+    margin-bottom:100px;
+    width: 85%;
+    margin: 0 auto;
+    flex-wrap:nowrap;
+}
+
+@media screen and (max-width: 750px) {
+  body {
+    width: 100%;
+    max-width: 100%;   
+    text-align: left;
+    size: 50%;
+    flex-wrap:nowrap;
+  }  
+  .header {
+    margin-top: 1em;
+  }
+}
